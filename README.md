@@ -1,2 +1,2 @@
 # Smarn
-Your Ultimate List Companion
+Your Companion for Lists and Tasks
